@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Evan! I'm a freshman EECS major at UC Berkeley. You can reach me at [my email](mailto:evan-luo@berkeley.edu)
+I'm Evan! I'm a freshman EECS major at UC Berkeley. You can reach me at [evan-luo@berkeley.edu](mailto:evan-luo@berkeley.edu).
 <!--
 **dr4Nx/dr4Nx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
