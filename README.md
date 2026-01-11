@@ -1,6 +1,10 @@
 ## Hi there 👋
 
 I'm Evan! I'm a EECS major at UC Berkeley. You can reach me at [evan-luo@berkeley.edu](mailto:evan-luo@berkeley.edu).
+
+I am currently an undergraduate researcher with REDS (Research Environment for David's Students) under Professor David Wagner and Ph.D. student Julien Piet. I previously was an SDE intern @ Amazon.
+
+[My Linkedin](https://www.linkedin.com/in/theevanluo/)
 <!--
 **dr4Nx/dr4Nx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
