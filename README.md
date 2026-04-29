@@ -2,7 +2,7 @@
 
 I'm Evan! I'm a EECS major at UC Berkeley. You can reach me at [evan-luo@berkeley.edu](mailto:evan-luo@berkeley.edu).
 
-I am currently an undergraduate researcher with REDS (Research Environment for David's Students) under Professor David Wagner and Ph.D. student Julien Piet. I previously was an SDE intern @ Amazon.
+I am currently an intern @ Jane Street and a researcher with REDS (Research Environment for David's Students) under Professor David Wagner and Ph.D. Julien Piet (Google Deepmind). I previously was an SDE intern @ Amazon.
 
 [My Linkedin](https://www.linkedin.com/in/theevanluo/)
 <!--
